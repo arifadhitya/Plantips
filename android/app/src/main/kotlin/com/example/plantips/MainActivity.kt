@@ -1,0 +1,6 @@
+package com.example.plantips
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
